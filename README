@@ -1,7 +1,7 @@
-helium-seeder
+sterlingcoin-seeder
 ==============
 
-Helium-seeder is a crawler for the Helium network, which exposes a list
+Sterlingcoin-seeder is a crawler for the Sterlingcoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
