@@ -280,7 +280,7 @@ bool TestNode(const CService &cip, int &ban, int &clientV, std::string &clientSV
 
 /*
 int main(void) {
-  CService ip("dns.sterlingcoin.org", 9127, true);
+  CService ip("dns.sterlingcoin.org", 19127, true);
   vector<CAddress> vAddr;
   vAddr.clear();
   int ban = 0;
